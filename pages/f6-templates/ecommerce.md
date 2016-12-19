@@ -29,16 +29,16 @@ permalink: /ecommerce
     <button class="orbit-previous" aria-label="previous"><span class="show-for-sr">Previous Slide</span>&#9664;</button>
     <button class="orbit-next" aria-label="next"><span class="show-for-sr">Next Slide</span>&#9654;</button>
     <li class="orbit-slide is-active">
-      <img src="http://placehold.it/2000x750">
+      <img src="http://placehold.it/2000x750?text=one">
     </li>
     <li class="orbit-slide">
-      <img src="http://placehold.it/2000x750">
+      <img src="http://placehold.it/2000x750?text=two">
     </li>
     <li class="orbit-slide">
-      <img src="http://placehold.it/2000x750">
+      <img src="http://placehold.it/2000x750?text=three">
     </li>
     <li class="orbit-slide">
-      <img src="http://placehold.it/2000x750">
+      <img src="http://placehold.it/2000x750?text=four">
     </li>
   </ul>
 </div>
