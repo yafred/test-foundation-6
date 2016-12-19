@@ -24,58 +24,63 @@ permalink: /index.html
       </div>
       <div class="callout primary">
         <div class="row column">
-          <h1>Hello! This is the portfolio of a very witty person.</h1>
-          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla.</p>
+          <h1>Foundation 6 Templates.</h1>
         </div>
       </div>
       <div class="row small-up-2 medium-up-3 large-up-4">
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>Blog Simple</h5>
+          <a href="{{ '/blog-simple' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-blog-simple.jpg' | absolute_url }}">
+          </a>
         </div>
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>Blog</h5>
+          <a href="{{ '/blog' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-blog.jpg' | absolute_url }}">
+          </a>
         </div>
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>Agency</h5>
+          <a href="{{ '/agency' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-agency.jpg' | absolute_url }}">
+          </a>
         </div>
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>e-Commerce</h5>
+          <a href="{{ '/ecommerce' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-ecommerce.jpg' | absolute_url }}">
+          </a>
         </div>
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>Marketing</h5>
+            <a href="{{ '/marketing-site' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-marketing-site.jpg' | absolute_url }}">
+          </a>
         </div>
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>Magazine</h5>
+          <a href="{{ '/news-magazine' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-news-magazine.jpg' | absolute_url }}">
+          </a>
         </div>
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>Portfolio</h5>
+          <a href="{{ '/portfolio' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-portfolio.jpg' | absolute_url }}">
+          </a>
         </div>
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>Product</h5>
+          <a href="{{ '/product-page' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-product-page.jpg' | absolute_url }}">
+          </a>
         </div>
         <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
-        </div>
-        <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
-        </div>
-        <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
-        </div>
-        <div class="column">
-          <img class="thumbnail" src="http://placehold.it/550x550">
-          <h5>My Site</h5>
+          <h5>Real Estate</h5>
+          <a href="{{ '/real-estate' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/f6-real-estate.jpg' | absolute_url }}">
+          </a>
         </div>
       </div>
 
