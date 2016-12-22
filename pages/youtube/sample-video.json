@@ -1,0 +1,88 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/hiDGB36CFrvBGgfhbyD6Iz2xIlo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Sl7NZRVnGgp3czDjlk8dd2OLRgc\"",
+   "id": "qxHQj6rrj_w",
+   "snippet": {
+    "publishedAt": "2016-02-08T22:59:08.000Z",
+    "channelId": "UCSHsEkDUQO6r9yNrmLXqD3g",
+    "title": "B6 DRONE - French Riviera - ANTIBES",
+    "description": "\u202a#\u200eCotedAzurNow\u202c\nAntibes par drone: B6 drone\n\nPetite visite aérienne d'Antibes par drone.\nVieil Antibes\nPort\nFort Carré\nBaie des milliardaires\nCap d'Antibes\nPort de l'Olivette\nMusique: Boxer\n\nExtrait des images BBC\nMontage & réalisation\nB6 drone\nPrises de vues aériennes par drone\nOrganisme de formation télépilote drone\n\nwww.b6-drone.com\ncontact@b6drone.com\n\nVidéos 4K RAW\nPhotos Raw capteur plein format\n\nProfessionnels des prises de vues aériennes:\n\nAgence, Immobilier, promoteurs, entreprises, tourisme, hôtellerie, patrimoine, évènementiels, culture, sport particuliers…\nDonnez de la hauteur à vos projets !\n\nUne solution économique pour des applications multiples et variées : \nVidéos, photos, panorama 360°\nValorisations de Biens\nSuivi de chantier\nSimulation d’étages\nPermis de construire, cadastre\nCentre de vacances, camping, golf\nSite internet, book d’entreprise et communication\nBrochures, cartes postale\nInfrastructures\nContrôle et inspection technique\n.....\nCentre de formation télé-pilote",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qxHQj6rrj_w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qxHQj6rrj_w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qxHQj6rrj_w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qxHQj6rrj_w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qxHQj6rrj_w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "B6 drone",
+    "tags": [
+     "antibes",
+     "drone",
+     "b6",
+     "patrimoine",
+     "vieille ville d'antibes",
+     "06",
+     "paca",
+     "alpes maritimes",
+     "cote d azur",
+     "sky",
+     "phantom 3",
+     "Phantom",
+     "Phantom 4",
+     "ciel",
+     "City",
+     "beautiful",
+     "Yacht",
+     "Big",
+     "sail",
+     "sea",
+     "sailing",
+     "cotedazurnow",
+     "#cotedazurnow",
+     "film",
+     "vidéos",
+     "photos",
+     "best",
+     "Nice",
+     "french riviera",
+     "French",
+     "Caméra"
+    ],
+    "categoryId": "19",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "B6 DRONE - French Riviera - ANTIBES",
+     "description": "\u202a#\u200eCotedAzurNow\u202c\nAntibes par drone: B6 drone\n\nPetite visite aérienne d'Antibes par drone.\nVieil Antibes\nPort\nFort Carré\nBaie des milliardaires\nCap d'Antibes\nPort de l'Olivette\nMusique: Boxer\n\nExtrait des images BBC\nMontage & réalisation\nB6 drone\nPrises de vues aériennes par drone\nOrganisme de formation télépilote drone\n\nwww.b6-drone.com\ncontact@b6drone.com\n\nVidéos 4K RAW\nPhotos Raw capteur plein format\n\nProfessionnels des prises de vues aériennes:\n\nAgence, Immobilier, promoteurs, entreprises, tourisme, hôtellerie, patrimoine, évènementiels, culture, sport particuliers…\nDonnez de la hauteur à vos projets !\n\nUne solution économique pour des applications multiples et variées : \nVidéos, photos, panorama 360°\nValorisations de Biens\nSuivi de chantier\nSimulation d’étages\nPermis de construire, cadastre\nCentre de vacances, camping, golf\nSite internet, book d’entreprise et communication\nBrochures, cartes postale\nInfrastructures\nContrôle et inspection technique\n.....\nCentre de formation télé-pilote"
+    }
+   }
+  }
+ ]
+}

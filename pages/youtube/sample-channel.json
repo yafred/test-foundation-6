@@ -1,0 +1,37 @@
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/TXf9eqKW-2SehRbcJacAUu_nZmw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#channel",
+   "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/9aBgGAMSvmwKhV1XEna-nyw4z7o\"",
+   "id": "UCSHsEkDUQO6r9yNrmLXqD3g",
+   "snippet": {
+    "title": "B6 drone",
+    "description": "Prises de vues aériennes \nOrganisme et centre de formation drone\nwww.b6-drone.com\nhttp://www.b6-drone.com/formation\n\n\nImplantée sur la Côte d'Azur à Antibes dans le 06, l'équipe B6 drone est composée d'un pilote d'hélicoptère également aéromodélisme depuis plus de 15 ans ainsi que d'un ingénieur informatique et photographe qui ont réuni leurs talents dans la réalisation de drones au service des professionnels et de l'imagerie aérienne.\n\nAgence, Immobilier, promoteurs, entreprises, tourisme, hôtellerie, patrimoine, évènementiels, culture, particuliers...\n\nDonnez de la hauteur à vos projets !\n\nUne solution économique pour des applications multiples et variées : Vidéos, photos, panorama 360°\n\nValorisations de Biens\nSuivi de chantier\nSimulation d'étages\nPermis de construire, cadastre\nCentre de vacances, camping, golf\nSite internet, book d'entreprise et communication\nBrochures, cartes postale\nInfrastructures\nContrôle et inspection technique\n.....\nFormation telepilote",
+    "customUrl": "axisdronebenoit",
+    "publishedAt": "2013-08-22T08:15:37.000Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-8b4pI97UzYM/AAAAAAAAAAI/AAAAAAAAAAA/BQjjApLxH6Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-8b4pI97UzYM/AAAAAAAAAAI/AAAAAAAAAAA/BQjjApLxH6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-8b4pI97UzYM/AAAAAAAAAAI/AAAAAAAAAAA/BQjjApLxH6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "localized": {
+     "title": "B6 drone",
+     "description": "Prises de vues aériennes \nOrganisme et centre de formation drone\nwww.b6-drone.com\nhttp://www.b6-drone.com/formation\n\n\nImplantée sur la Côte d'Azur à Antibes dans le 06, l'équipe B6 drone est composée d'un pilote d'hélicoptère également aéromodélisme depuis plus de 15 ans ainsi que d'un ingénieur informatique et photographe qui ont réuni leurs talents dans la réalisation de drones au service des professionnels et de l'imagerie aérienne.\n\nAgence, Immobilier, promoteurs, entreprises, tourisme, hôtellerie, patrimoine, évènementiels, culture, particuliers...\n\nDonnez de la hauteur à vos projets !\n\nUne solution économique pour des applications multiples et variées : Vidéos, photos, panorama 360°\n\nValorisations de Biens\nSuivi de chantier\nSimulation d'étages\nPermis de construire, cadastre\nCentre de vacances, camping, golf\nSite internet, book d'entreprise et communication\nBrochures, cartes postale\nInfrastructures\nContrôle et inspection technique\n.....\nFormation telepilote"
+    },
+    "country": "FR"
+   }
+  }
+ ]
+}
