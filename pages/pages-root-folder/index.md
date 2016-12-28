@@ -82,6 +82,12 @@ permalink: /index.html
             <img class="thumbnail" src="{{ '/assets/images/f6-real-estate.jpg' | absolute_url }}">
           </a>
         </div>
+        <div class="column">
+          <h5>Off-Canvas</h5>
+          <a href="{{ '/off-canvas' | absolute_url }}">
+            <img class="thumbnail" src="{{ '/assets/images/off-canvas.jpg' | absolute_url }}">
+          </a>
+        </div>
       </div>
 
       <hr>
