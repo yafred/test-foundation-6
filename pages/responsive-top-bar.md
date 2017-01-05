@@ -37,7 +37,6 @@ permalink: /responsive-top-bar
       <!-- for small -->
       <ul class="hide-for-medium vertical menu" data-drilldown>
         <li>
-        <li>
           <a href="#">Item 1</a>
             <ul class="menu">
               <li><a href="#">Item 1A</a></li>
